@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: "Poppins", sans-serif,"Times New Roman";
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+body{
+    font-size: 16px;
+    line-height: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+.container{
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header_top{
+   color:#8db2e5
+}
